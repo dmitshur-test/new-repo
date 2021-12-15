@@ -1,3 +1,4 @@
+// Package lib ...
 package lib
 
 import "time"
